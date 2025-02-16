@@ -13,3 +13,6 @@ The Task 4 file includes Python programs for tasks like finding a missing number
 <hr>
 The Task 5 file contains Python programs focusing on recursion, dynamic programming, data structures, and algorithms. It includes solutions for string permutations, Fibonacci computation, duplicate detection, LIS, K largest elements, matrix rotation, Sudoku validation, and a Virtual Stock Market Simulator.<br>
 <b>Link to Colab: https://colab.research.google.com/drive/1BQPf_oeKZIv9osPbLkkMkPd5HcS3ZrSW?usp=sharing</b>
+<hr>
+Task 6 includes solving problems like Sudoku Validator, Word Frequency in Text, 0/1 Knapsack Problem, Merge Intervals, finding the Median of Two Sorted Arrays, and the Maximal Rectangle in Binary Matrix. Other challenges include Kadane's Algorithm, the Word Ladder Problem, and creating a Command-Line RPG Game with combat and item management.<br>
+<b>Link to Colab: https://colab.research.google.com/drive/1n2XkDsLmQ72XNwZ_CQRqw_wZMWQQ2msV?usp=sharing</b>
